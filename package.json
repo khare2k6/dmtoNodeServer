@@ -1,0 +1,10 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "dependencies": {
+  	"connect-mongo": "latest",
+    "nodemailer": "latest",
+    "express": "latest",
+    "body-parser":"*"
+  }
+}
